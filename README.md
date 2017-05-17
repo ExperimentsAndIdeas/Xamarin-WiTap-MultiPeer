@@ -7,3 +7,12 @@ Please share any best practices that occurred after Version 2.1, 2014-08-05, sin
 
 Some assistance on porting this is located here
 https://developer.apple.com/library/content/samplecode/WiTap/Introduction/Intro.html
+
+![Alt text](/screenshot1.png)
+
+
+![Alt text](/screenshot2.png)
+
+
+![Alt text](/screenshot3.png)
+  
