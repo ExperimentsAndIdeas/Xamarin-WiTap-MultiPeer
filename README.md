@@ -5,8 +5,8 @@ https://developer.apple.com/library/content/samplecode/WiTap/Introduction/Intro.
 
 Please share any best practices that occurred after Version 2.1, 2014-08-05, since this is a line-by-line port. 
 
-Some assistance on porting this is located here
-https://developer.apple.com/library/content/samplecode/WiTap/Introduction/Intro.html
+Some assistance on porting this is located here 
+http://stackoverflow.com/q/44034733/328397
 
 ![Alt text](/screenshot1.png)
 
